@@ -1,0 +1,1 @@
+This project is for understanding EDA, pandas profiling and wordcloud
